@@ -1,6 +1,7 @@
 """Дескриптор (descriptor)
 Дискрипторы данных (`data descriptor`) и
-дискрипторы не данных (`non-data descriptor`). """
+дискрипторы не данных (`non-data descriptor`)
+"""
 
 
 class Integer:
